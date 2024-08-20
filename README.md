@@ -5,9 +5,9 @@
 Welcome to the **Sowscharity Mission Bypass** tool. This Python program allows you to bypass missions without the need to watch the required videos. This tool is intended for educational purposes only. Please use it responsibly.
 
 ## Features
+- **Error Handling**: Smart error handling ensures stability during mission completion.
 - **Automated Mission Completion**: Automatically completes missions without manual intervention.
 - **Multi-Account Support**: Handle multiple accounts at once with a simple input format.
-- **Error Handling**: Smart error handling ensures stability during mission completion.
 - **User-Friendly Interface**: Clear and concise prompts guide you through the process.
 
 ## Compatibility
@@ -30,9 +30,9 @@ Welcome to the **Sowscharity Mission Bypass** tool. This Python program allows y
     ```
 
 ## Usage
-1. **Login Required**: You must fill in the username and password of the registered account. Use `:` as a separator and `#` to fill in multiple accounts.
-2. **Execution**: The program will work on all missions. Please wait, and if there is an error, check the error log. Make sure your connection is stable.
-3. **Mission Completion**: Once the missions are completed, the program will notify you and you can return after 24 hours to complete more missions.
+1. **Execution**: The program will work on all missions. Please wait, and if there is an error, check the error log. Make sure your connection is stable.
+2. **Mission Completion**: Once the missions are completed, the program will notify you and you can return after 24 hours to complete more missions.
+3. **Login Required**: You must fill in the username and password of the registered account. Use `:` as a separator and `#` to fill in multiple accounts.
 
 ## Error Handling
 - **Incorrect Separator**: If you enter the wrong separator between username and password, the program will prompt you to try again.
@@ -48,7 +48,7 @@ If you find this tool helpful and would like to support my work, consider making
 ![FunPic_20240820](https://github.com/user-attachments/assets/fe21bcb9-1007-45da-8ba6-2757f6871768)
 
 ## Educational Use Disclaimer
-This tool is intended solely for educational purposes. The use of this tool should not violate any terms of service or ethical guidelines. The responsibility for its use lies with the user.
+This tool is designed exclusively for educational purposes. Users are responsible for ensuring that its use complies with all applicable terms of service and ethical guidelines. Misuse of this tool is not endorsed by the developer.
 
 ## License 
 This project is licensed under the [Apache-2.0 License]().
