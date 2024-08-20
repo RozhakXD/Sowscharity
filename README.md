@@ -48,7 +48,7 @@ If you find this tool helpful and would like to support my work, consider making
 ![FunPic_20240820](https://github.com/user-attachments/assets/fe21bcb9-1007-45da-8ba6-2757f6871768)
 
 ## Educational Use Disclaimer
-This tool is designed exclusively for educational purposes. Users are responsible for ensuring that its use complies with all applicable terms of service and ethical guidelines. Misuse of this tool is not endorsed by the developer.
+This tool is provided strictly for educational use. It is the user’s responsibility to ensure that its application aligns with all relevant terms of service and ethical standards. Any misuse of this tool is beyond the developer’s control.
 
 ## License 
 This project is licensed under the [Apache-2.0 License]().
