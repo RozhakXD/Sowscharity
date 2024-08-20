@@ -45,7 +45,9 @@ If you find this tool helpful and would like to support my work, consider making
 - [Donate via PayPal](https://paypal.me/rozhak9)
 
 ## Screenshot
-![FunPic_20240820](https://github.com/user-attachments/assets/fe21bcb9-1007-45da-8ba6-2757f6871768)
+![Mission](https://github.com/user-attachments/assets/fe21bcb9-1007-45da-8ba6-2757f6871768)
+
+![Withdrawal](https://github.com/user-attachments/assets/6208b18e-9694-47fe-960c-0cfa38468b3d)
 
 ## Educational Use Disclaimer
 This tool is provided for educational purposes only. Users must ensure that their actions do not breach any terms of service or ethical standards. The developer is not responsible for any misuse of this tool.
